@@ -1,0 +1,213 @@
+#Header{
+	height: 80px;
+	background: #00cec9;
+	text-align: center;
+	font-size: 40px;
+}
+.Navigation{
+	height: 60px;
+	background: #2ecc71;
+	text-align: center;
+	font-size: 40px;
+}
+.Wrepper{
+	overflow: hidden;
+}
+.Aside{
+	height: 300px;
+	width: 30%;
+	background: #2ed573;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+
+}
+.blo{
+	height: 300px;
+	width: 70%;	
+	float: left;
+	overflow: hidden;
+}
+.Content{
+	height: 150px;
+	background: #0F98C6;
+	text-align: center;
+	font-size: 40px;
+}
+	
+
+.Section{
+	height: 150px;
+	background: #005B92;
+	text-align: center;
+	font-size: 40px;
+}
+#Fotter0{
+	height: 80px;
+	background: #00cec9;
+	text-align: center;
+	font-size: 40px;
+}
+
+/*Second Layout*/
+
+#Header1{
+	height: 80px;
+	background: #0652DD;
+	text-align: center;
+	font-size: 40px;
+}
+.wrepper3{
+	overflow: hidden;
+}
+.Nav{
+	height:300px;
+	width: 25%;
+	background: #1e90ff;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.Content2{
+	height: 300px;
+	width: 50%;
+	background: #a4b0be;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.Sidebar{
+	height:300px;
+	width: 25%;
+	background: #1e90ff;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+#Footer{
+	height: 80px;
+	background: #0652DD;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+
+
+/*Third Layout*/
+
+#Header2{
+	height: 70px;
+	background: #57606f;
+	text-align: center;
+	font-size: 40px;
+}
+.Wrepper3{
+	overflow: hidden;
+}
+.Menu{
+	height: 400px;
+	width: 30%;
+	background: #ff6b81;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.content3{
+	height: 400px;
+	width: 70%;
+	background: #1e90ff;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+#Footer1{
+	height: 70px;
+	background: #57606f;
+	text-align: center;
+	font-size: 40px;
+}
+/*Four Layout*/
+#Header4{
+	height: 80px;
+	background: #F35DA2;
+	text-align: center;
+	font-size: 40px;
+}
+.main{
+	width: 80%;
+	float: left;
+	overflow: hidden;
+	text-align: center;
+	font-size: 40px;
+}
+.Content4{
+	height: 400px;
+	background: #85D7E0;
+
+}
+.Footer4{
+	height: 80px;
+	background: #F4E65B;
+}
+.Aside4{
+	height: 480px;
+	width: 20%;
+	background: #92CA50;
+	float: left;
+	text-align: center;
+	font-size: 40px;
+}
+
+
+
+.NAVBAR{
+	height: 50px;
+	background: #A9FDEB;
+}
+.Sidebar5{
+}
+.Aside5{
+	height: 600px;
+	background: #17FFFF;
+	width: 10%;
+	float: left;
+	overflow: hidden;
+}
+.Main5{
+	height: 600px;
+	width: 90%;
+	background: red;
+	float: left;
+}
+.Main6{
+	height: 200px;
+	background: #84FEFF;
+	overflow: hidden;
+	float: left;
+	
+
+}
+.Content6{
+	float: left;
+}
+.Content7{
+	height: 200px;
+	width: 30%;
+	background: #70FFD3;
+	
+}
+.content9{
+	height: 200px;
+	width: 30%;
+	background: #17FFFF;
+	
+}
+.Content8{
+	height: 200px;
+	width: 30%;
+	background: #70FFD3;
+	
+}
+
+
